@@ -134,9 +134,9 @@ Dati a disposizione:
        - non ha questa funzionalità e dovrò quindi farlo manualmente 
  - avvio dal pc il programma dello scanner
  - inizio a mettere i fogli dentro lo scanner
- - girerò ogni foglio manualment per scannerizzare sia il fronte che il retro
+ - girerò ogni foglio manualmente per scannerizzare sia il fronte che il retro
     - FINCHE' non avrò terminato questa operazione con il resto dei fogli la ripeterò
-- dopo una ventina di minuti i fogli sono tutti scannerizzati
+- dopo diversi minuti i fogli sono tutti scannerizzati
 ---
 - Archiviare il file
   - mi metto al pc
