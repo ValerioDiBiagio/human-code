@@ -53,9 +53,9 @@ Dati a disposizione:
    - le metto dentro al carrello 
  - consulto di nuovo la lista della spesa per ricordare le altre cose rimaste da prendere
  - mi reco al reparto dei cereali
-   - SE ci sono i muslei prenderò quelli
+   - SE ci sono i muesli prenderò quelli
    - ALTRIMENTI andranno bene anche altri
-   - prendo i muslei
+   - prendo i muesli
    - li metto dentro al carrello
  - successivamente mi reco al reparto della verdura
    - controllo se ci sono gli spinaci e la verza
@@ -91,7 +91,7 @@ Dati a disposizione:
        - attendo il resto
        - metto il resto dentro al portafoglio
  - termino il pagamento
- - metto gli alimenti dentro la busta, ringrazio e saluto
+ - metto gli alimenti dentro la busta e lo scontrino, ringrazio e saluto
  ---
 - Tornare a casa
   - varco l'uscita del supermercato
