@@ -96,3 +96,52 @@ Dati a disposizione:
 - Tornare a casa
   - varco l'uscita del supermercato
   - torno a casa
+---
+
+
+# Scansionare un documento su più fogli fronte-retro
+
+Dati a disposizione:
+- ritrovamento di alcuni fogli
+- renderli un documento digitale
+- scannerizzarli
+- scanner che non ha la funzionalità fronte-retro
+---
+
+## Esecuzione:
+
+- Raggruppare i fogli
+  - finalmente trovo la pratica che cercavo da questa mattina
+    - apro la cartellina
+    - SE ci sono tutti i fogli posso procedere
+    - ALTRIMENTI devo continuare a cercare
+    - la pratica è completa
+---
+- Fare scansione
+  - decido di fare una scansione per salvare sul pc la pratica
+  - con la cartellina in mano mi avvicino al pc
+  - accendo il pc e lo scanner collegato
+    - il pc e lo scanner sono accesi
+       - verifico le funzionalità dello scanner 
+       - SE ha la funzionalità fronte-retro il lavoro sarà più veloce
+       - ALTRIMENTI dovrò farlo manualmente
+       - non ha questa funzionalità e dovrò quindi farlo manualmente 
+ - avvio dal pc il programma dello scanner
+ - inizio a mettere i fogli dentro lo scanner
+ - girerò ogni foglio manualment per scannerizzare sia il fronte che il retro
+    - FINCHE' non avrò terminato questa operazione con il resto dei fogli la ripeterò
+- dopo una ventina di minuti i fogli sono tutti scannerizzati
+---
+- Archiviare il file
+  - mi metto al pc
+  - controllo il programma dello scanner per assicurarmi che ci siano tutti i fogli correttamente scannerizzati
+  - procedo con la creazione del file
+  - file creato
+- Spegnimento del pc e dello scanner
+  - terminato il lavoro
+  - mi reco verso lo scanner e lo spengo
+  - torno al pc e lo spengo
+
+
+
+
