@@ -1,0 +1,98 @@
+# Fare la spesa seguendo una lista
+
+Dati a disposizione:
+- frigorifero vuoto
+- lista a portata di mano
+- Ricky e le sue crocchette
+- coupon con scadenza fine mese
+- contanti nel portafoglio
+---
+
+## Esecuzione:
+
+- Uscire di casa
+  - vado in camera
+  - mi affaccio alla finestra e vedo che tempo fa
+     - SE piove e fa freddo mi vesto più pesante
+     - ALTRIMENTI mi vesto più leggero
+  - il tempo è soleggiato
+  - vado verso l'armadio
+  - apro le ante dell'armadio
+    - prendo i vestiti
+  - indosso i vestiti
+  - prendo la lista della spesa, le chiavi, il coupon, la carta e il portafoglio con i contanti
+  - li metto in tasca
+  - apro la porta d'ingresso
+  - esco di casa
+---
+- Andare al supermercato
+  - varco l'entrata del supermercato
+  - prendo il carrello
+---
+- Fare la spesa
+  - prendo e consulto la lista della spesa
+    - leggo scritti 10 alimenti differenti
+  - mi reco al reparto surgelati
+    - vedo se c'è il pesce di cui ho bisogno
+    - prendo il pesce
+    - lo metto dentro al carrello
+  - mi reco al reparto della pasta
+    - vedo se ci sono gli spaghetti
+    - prendo 2 pacchi di spaghetti
+    - li metto dentro al carrello
+ - dopodichè mi reco al banco per prendere il pane che mi serve
+   - prendo il numeretto e aspetto il mio turno
+   - SE c'è il filone lo prendo
+   - ALTRIMENTI prenderò le rosette
+   - è il mio turno e chiedo il pane
+   - prendo le rosette 
+   - le metto dentro al carrello
+ - mi reco al reparto della frutta
+   - prendo le mele
+   - le metto nella bilancia del supermercato e le peso
+   - le metto dentro al carrello 
+ - consulto di nuovo la lista della spesa per ricordare le altre cose rimaste da prendere
+ - mi reco al reparto dei cereali
+   - SE ci sono i muslei prenderò quelli
+   - ALTRIMENTI andranno bene anche altri
+   - prendo i muslei
+   - li metto dentro al carrello
+ - successivamente mi reco al reparto della verdura
+   - controllo se ci sono gli spinaci e la verza
+   - prendo entrambe
+   - le metto nella bilancia del supermercato e le peso
+   - le metto dentro al carrello
+ - nel frattempo mi ricordo di dover prendere il latte, vado al reparto
+   - vedo la scadenza del latte e lo prendo
+   - lo metto dentro al carrello
+ - mi reco al reparto delle uova, devo prendere la confezione da 6
+   - SE c'è la prendo
+   - ALTRIMENTI prenderò quella da 4
+   - prendo la confezione da 4
+   - la metto dentro al carrello
+ - infine mancano soltanto le crocchette di Ricky
+ - mi reco al reparto animali
+   - prendo le crocchette preferite di Ricky
+   - le metto dentro al carrello
+ - controllo nuovamente la lista
+   - SE ho preso tutto posso andare verso la cassa
+   - ALTRIMENTI prenderò ciò che manca
+   - ho preso tutto
+- vado verse lo cassa per effettuare il pagamento
+---
+- Pagare
+  - arrivo in fila alla cassa e aspetto il mio turno
+  - è il mio turno
+     - prendo gli alimenti dal carrello e li metto in cassa
+     - tiro fuori dalla tasca il coupon ed attendo il totale
+     - SE il coupon ed i contanti bastano pago con quelli
+     - ALTRIMENTI utilizzerò la carta
+       - do il coupon alla cassiera e prendo i contanti dal portafoglio
+       - attendo il resto
+       - metto il resto dentro al portafoglio
+ - termino il pagamento
+ - metto gli alimenti dentro la busta, ringrazio e saluto
+ ---
+- Tornare a casa
+  - varco l'uscita del supermercato
+  - torno a casa
